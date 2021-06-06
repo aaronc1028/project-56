@@ -1,0 +1,20 @@
+img {
+ width: 500px;   
+ height: 250px;   
+}
+
+.imageSection{
+    display: flex;
+    justify-content: center;
+}
+
+.images{
+    margin-left: 25px;
+    margin-right: 25px;
+    background: white;
+}
+ 
+body{
+    text-align: center;
+    
+}
